@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.user_deatail{
+  text-decoration: none;
+  position: absolute;
+  top: 22%;
+  left: 45%;
+  font-family: Georgia, serif;
+  font-size: 24px;
+  color: black;
+  font-weight:bold;
+}
+.head{
+    height: 20%;
+    width: 103.6%;
+    margin-top: -16px;
+    margin-left: -17px;
+}
+.headSection{
+  margin-top: 10px;
+}
+.head-row{
+  padding-right: 10px;
+}
+.headSection {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+.sec1,.sec2{
+  position: relative;
+  overflow: auto;
+  text-align: justify;
+  text-align: center;
+  /* max-width: 32rem; */
+  width: 38%;
+  height: 331px;
+  margin: auto;
+  margin-top: 11rem;
+  position: relative;
+  background-color: white;
+  color: white;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 1px 18px 10px rgb(0 0 0 / 25%);
+  }
+  
+  .mainsection{
+    display: flex;
+    flex-direction: row;
+    height: 90vh;
+  }
+  ul{
+    list-style-type: none;
+  }
+  .table{
+    min-width: 78vh;
+    margin-top: -8px;
+    margin-left: -16px;
+    font-family: serif;
+    color: black
+  }
+ td{
+    padding: 9px;
+    background-color: aliceblue;
+  }
+ 

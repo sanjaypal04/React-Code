@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+.headSection{
+    width: 503px;
+    height: 48px;
+    background-color:#083435;
+    display: flex;
+    flex-direction: row;
+    font-family: Georgia, serif;
+    
+
+}
+.headSection .fname{
+    margin-left: -17px;
+    margin-top: 12px;
+}
+
+.headSection .lname{
+    margin-left: 25px;
+    margin-top: 12px;
+}
+
+.headSection .email{
+    margin-left: 132px;
+    margin-top: 12px;
+}
+.head{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.city{
+    margin-top: 12px;
+    margin-left: 30px;
+}
+.country{
+    margin-top: 12px;
+    margin-left: 122px;
+}
+.state{
+    margin-top: 12px;
+    margin-left: 155px;
+}
